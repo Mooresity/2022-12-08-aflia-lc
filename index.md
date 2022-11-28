@@ -37,7 +37,6 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 For a workshop please delete the following block until the next dashed-line
 {% endcomment %}
 `
-</div>
 
 {% comment %}
 8< ============================= until here ==================
@@ -143,10 +142,7 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
+  <a href="https://forms.gle/ijasqMTeibD2DFzs6">Register for the Workshop Here</a>
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
@@ -203,11 +199,10 @@ special instructions.
 {% if online == "false" %}
   We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
 </p>
-<ul>
+ </ul>
   <li> Make use of this link to <a href="https://forms.gle/ijasqMTeibD2DFzs6">register for the Workshop</a>
   <li>Conncection details will be shared with you after registration</li>
-</ul>
-<p>
+
   
 </p>
 {% else %}
