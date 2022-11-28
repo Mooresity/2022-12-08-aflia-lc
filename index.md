@@ -200,16 +200,29 @@ special instructions.
   We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
     </p>
  
-  <li> Make use of this link to <a href="https://forms.gle/ijasqMTeibD2DFzs6">register for the Workshop</a>
-  <li>Conncection details will be shared with you after registration</li>
+      <li> Make use of this link to <a href="https://forms.gle/ijasqMTeibD2DFzs6">register for the Workshop</a>
+      <li>Conncection details will be shared with you after registration</li>
     
-</p>
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
   notify the instructors in advance of the workshop if you require any accommodations or if there is
   anything we can do to make this workshop more accessible to you.
 </p>
 {% endif %}
+
+{% comment %}
+
+
+SPONSORS AND ORGANISERS
+
+Modify the block below if there are any barriers to accessibility or
+special instructions.
+{% endcomment %}
+<p id="accessibility">
+  <strong>Sponsors and Organisers:</strong> The workshop is organised collaboratively by the Library Education & Training Section (LETIS) of the African Library and Information Associations and Institutions (AfLIA) supported by the Department of Library 7 Information Science, Unniversity of the Western Capes.
+</p>
+
+{% comment %}
 
 {% comment %}
 CONTACT EMAIL ADDRESS
