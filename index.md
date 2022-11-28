@@ -199,12 +199,12 @@ special instructions.
 {% if online == "false" %}
   We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
 </p>
- </ul>
+ 
   <li> Make use of this link to <a href="https://forms.gle/ijasqMTeibD2DFzs6">register for the Workshop</a>
   <li>Conncection details will be shared with you after registration</li>
-
-  
 </p>
+  
+
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
   notify the instructors in advance of the workshop if you require any accommodations or if there is
