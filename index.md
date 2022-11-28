@@ -209,6 +209,7 @@ special instructions.
   anything we can do to make this workshop more accessible to you.
 
 {% endif %}
+{% endcomment %}
 
 {% comment %}
 
@@ -219,7 +220,7 @@ Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Sponsors and Organisers:</strong> The workshop is organised collaboratively by the Library Education & Training Section (LETIS) of the African Library and Information Associations and Institutions (AfLIA) supported by the Department of Library 7 Information Science, Unniversity of the Western Capes.
+  <strong>Sponsors and Organisers:</strong> The workshop is organised collaboratively by the Library Education & Training Section (LETIS) of the African Library and Information Associations and Institutions (AfLIA) supported by the Department of Library & Information Science, Unniversity of the Western Capes.
 </p>
 
 {% comment %}
